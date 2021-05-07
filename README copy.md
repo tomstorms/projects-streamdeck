@@ -1,6 +1,6 @@
 # Project StreamDeck
 
-Custom StreamDeck ideas for my productivity.
+
 
 
 ## To Do
