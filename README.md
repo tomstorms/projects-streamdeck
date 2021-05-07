@@ -6,7 +6,9 @@ Custom StreamDeck ideas for my productivity.
 ## To Do
 - Use .env file for keys
 - Use a config file for workflows?
-- Setup decks to have multiple pages ie $deck[0][0] = page 1
+- Setup decks for Deck pagination to have multiple pages ie $deck[0][0] = page 1
+- Add full deck animations across multiple tiles
+- Use sharp to combin and animate icons
 
 
 ## Future Plugins
@@ -26,7 +28,7 @@ Custom StreamDeck ideas for my productivity.
 - 'Dev' mode - IDE, code repos etc.
 - 'Business' mode - Xero, accounting, taxes etc.
 - 'Education' mode - youtube vids, udemy etc.
-- 'Finder/Keeper/Doer' mode - load all Finder activities (as part of Finder, Keeper, Doer times). Follow Timebox format
+- 'Finder/Keeper/Doer' mode - load all Finder activities (as part of Finder, Keeper, Doer times). Follow Timebox format. Play a specific spotify radio playlist to get in the mood
 - 'Phone' mode - launch keep notes or a prompt to load a client profile to take notes etc.
 - 'Health' mode - toilet/water breaks - flash as full screen or notification to take a break
 
@@ -35,3 +37,6 @@ Custom StreamDeck ideas for my productivity.
 
 ### Trello
 - Pull cards for today and show the number of actions that are needed to do today
+
+
+
